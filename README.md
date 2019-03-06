@@ -1,2 +1,2 @@
 # NumberBaseConverter
-Numberic Base Converter: Second homework for Discrete Maths. 
+Numberic Base Converter: Second task for Discrete Maths. 
